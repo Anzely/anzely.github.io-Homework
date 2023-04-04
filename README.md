@@ -1,2 +1,2 @@
 # anzely.github.io
-This is a website for webdesign yeeppp
+This is a website for Web Design 
